@@ -70,7 +70,7 @@
 * Ultimate Google skills
 * Knowledge of the design patterns, ability to understand, recognize and use design-pattern. Keep it in memory is not needed but the understanding how to use the object composition should be.
 
-## Roles && Responsibilities
+## Roles & Responsibilities
 Each role below is project specific, it’s not a kind of Olympic games price or smth. To satisfy technical expertise on a project one of senior-level developers must be assigned as Lead-developer.
 
 ### Junior
