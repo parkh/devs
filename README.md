@@ -80,22 +80,22 @@ Each role below is project specific, it’s not a kind of Olympic games prize or
 
 ### Senior
 * Implement features and find solutions independently and request for help only if really needed
-* Assist the lead developer, suggest improvements, etc.
+* Assist a lead developer, suggest improvements, etc.
 * Officiate the lead-developer if he is not available (sick leave, vacation, etc.)
-* Help the lead developer to oversee mid and junior developers
-* Help the lead developer to explain tasks to the junior developers
+* Help a lead developer to oversee mid and junior developers
+* Help a lead developer to explain tasks to the junior developers
 
 ### Lead
 * Design the project architecture
-* Assemble the project toolkit - libraries, frameworks, etc.
+* Assemble project toolkit - libraries, frameworks, etc.
 * Communicate with PM on anything related to the project owners - hosting solutions, services usage, data-flow etc.
 * Mentoring of junior developers, explaining them how to implement specific tasks, especially if junior developer has no experience in the project tech stack
 * Oversee a work of middle-level developers
-* Manage the project source tree, keep it lean and easy to manage - branching, tagging of versions etc.
+* Manage project source tree, keep it lean and easy to manage - branching, tagging of versions etc.
 * Manage any technical troubleshooting, if needed ask for external help (architect, CTO etc.)
 * Help PM / PO to create the project plan, explain technical difficulties and features
 * Help PM / PO in assigning of specific tasks to developers, accordingly to theirs skills
-* Setup and support project deployment and monitoring (if required). Request for help if needed
+* Setup and support project deployment and monitoring, request for help if needed
 * Lead developer is responsible for the project technical consistency and all technical decisions
 * Lead can delegate some of his responsibilities to another developers of the project, but he is fully responsible for quality
 
