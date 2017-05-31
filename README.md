@@ -99,5 +99,8 @@ Each role below is project specific, it’s not a kind of Olympic games prize or
 * Lead developer is responsible for the project technical consistency and all technical decisions
 * Lead can delegate some of his responsibilities to another developers of the project, but he is fully responsible for quality
 
+### Architect
+* ???
+
 ----------
 *Sincere thanks to Bogdan, my first coding mentor*
