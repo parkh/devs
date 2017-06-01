@@ -23,9 +23,9 @@
     * Understanding how to process request attachments
 * Understanding of [MVC design pattern](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
     * Basic knowledge of any MVC web framework
-    * Basic knowledge of Apache web server configuration (for PHP / Ruby)
+* Basic knowledge of Apache web server configuration (for PHP / Ruby)
 * Understanding and ability to use Git
-* Average google skills
+* Average Google skills
 * Basic English - reading
 * Ability to write and speak in English is a plus
 
@@ -46,10 +46,10 @@
 * Ability to search for solutions of issues independently
 * Ability to localize a cause of issues and find solution or at least explain it comprehensively
 * Basic understanding of functional programming flavors in common programming languages - closures, currying etc.
-* Experience with job queues and other delayed processing solutions - is a plus
-* Experience with React, Angular, etc. is a plus
 * Good Google skills
 * Intermediate English - ability to read, write and speak
+* Experience with job queues and other delayed processing solutions - is a plus
+* Experience with React, Angular, etc. is a plus
 
 ### Senior
 * Good skills in business domain analysis
